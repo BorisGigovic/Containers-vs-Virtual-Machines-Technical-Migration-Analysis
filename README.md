@@ -115,10 +115,8 @@ Implementation Requirements:
 - Testing methodology requirements  
 - Validation criteria definition  
 
-[Azure Administrator](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-administrator-associate-az104/)
-
 ## Technical Resources  
 
 Additional technical specifications and documentation:  
-
-[DevOps Engineer](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-devops-engineer-expert-az204-400/)
+[Microsoft Certified: Azure Administrator Associate (AZ104)](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-administrator-associate-az104/)
+[Microsoft Certified: DevOps Engineer Expert (AZ204-400)](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-devops-engineer-expert-az204-400/)
